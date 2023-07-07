@@ -15,7 +15,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from '@/components/ui/popover';
-import { useStoreModal } from '@/hooks/use-sotre-modal';
+import { useStoreModal } from '@/hooks/use-store-modal';
 import { Button } from './ui/button';
 import { cn } from '@/lib/utils';
 import {
